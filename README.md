@@ -1,4 +1,4 @@
-# 💳 Credit Card Prediction ML App
+# 💳 Credit Card Prediction System
 
 An end-to-end Machine Learning web application that predicts whether a bank customer is likely to take a credit card based on demographic and financial behavior.
 
@@ -156,7 +156,7 @@ The app predicts:
 
 ## 👨‍💻 Author
 
-**Kalyan Sai**
+**Kalyan Sai Atchi**
 
 Full Stack AI Developer
 
